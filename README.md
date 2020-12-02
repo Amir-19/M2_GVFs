@@ -1,1 +1,2 @@
 # M2_GVFs
+In Robot Module 2, we build General Value Functions (GVFs) on top of the experimental setup from Robot Module 1. We design two on-policy and one off-policy questions in GVF framework and use raw sensorimotor data stream from the robot to answer those questions.
